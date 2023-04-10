@@ -7,7 +7,7 @@ Check out the Jupyter notebook here: https://jovian.com/tinliman21/project-2-eda
 
 
 Overview
-**Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
+Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
 
 About The DataSet (Kaggle)
 
